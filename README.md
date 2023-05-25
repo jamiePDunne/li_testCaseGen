@@ -43,22 +43,7 @@ The test case generator utilizes two techniques for test case generation:
 
 Here is an example output of the generated test cases:
 
-Test Case 1: 5 (Type: Equivalence Partitioning, Expected: Valid)
-Test Case 2: 10 (Type: Equivalence Partitioning, Expected: Valid)
-Test Case 3: 15 (Type: Equivalence Partitioning, Expected: Valid)
-Test Case 4: 20 (Type: Equivalence Partitioning, Expected: Valid)
-Test Case 5: -5 (Type: Equivalence Partitioning, Expected: Invalid)
-Test Case 6: -10 (Type: Equivalence Partitioning, Expected: Invalid)
-Test Case 7: -15 (Type: Equivalence Partitioning, Expected: Invalid)
-Test Case 8: -20 (Type: Equivalence Partitioning, Expected: Invalid)
-Test Case 9: 4 (Type: Boundary Value Analysis, Expected: Invalid)
-Test Case 10: 5 (Type: Boundary Value Analysis, Expected: Valid)
-Test Case 11: 6 (Type: Boundary Value Analysis, Expected: Valid)
-Test Case 12: 19 (Type: Boundary Value Analysis, Expected: Valid)
-Test Case 13: 20 (Type: Boundary Value Analysis, Expected: Valid)
-Test Case 14: 21 (Type: Boundary Value Analysis, Expected: Invalid)
-Test Case 15: A (Type: Non-Numeric Value, Expected: Invalid)
-Test Case 16: @ (Type: Non-Numeric Value, Expected: Invalid)
+![image](https://github.com/jamiePDunne/li_testCaseGen/assets/83908748/51606f04-6c33-4f47-aae1-e8184c49ff88)
 
 
 ## Contributions
